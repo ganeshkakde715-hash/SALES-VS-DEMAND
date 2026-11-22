@@ -143,10 +143,4 @@ Connect the Tableau data source to a live database rather than static CSV export
 Introduce a reorder-point and safety-stock calculation to reduce stockouts.
 Add a customer segmentation view using RFM (Recency, Frequency, Monetary) analysis.
 Validate and correct the shipment date field, then re-run the late-delivery analysis.
-Author
 
-[Your Name] [Your role / degree and institution] [Your email or LinkedIn]
-
-License
-
-This project is intended for educational and portfolio purposes. Add a license file (for example, MIT) if you plan to share it publicly.# SALES-VS-DEMAND
